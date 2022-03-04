@@ -1,6 +1,3 @@
-![icons8-linkedin](https://user-images.githubusercontent.com/89702974/156852221-5a5dc7c1-1400-4e9b-99ef-a50e56b24e03.svg)
-![icons8-linkedin](https://user-images.githubusercontent.com/89702974/156852235-76929b36-4ff0-4fbf-969e-092c0cb07632.svg)
-![icons8-gmail](https://user-images.githubusercontent.com/89702974/156852237-bb82dbb1-53de-408f-b4a9-baf4475960fd.svg)
 ## Seja bem vindo a meu Git Dev!!!
 
 <div >
