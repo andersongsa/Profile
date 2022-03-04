@@ -9,9 +9,9 @@
 </div>
 
 ## Redes sociais
-<div>
+<div align="center">
   <a href = "mailto: anderson.dossantosgsa@gmail.com">
-    <img width="30" src="https://user-images.githubusercontent.com/89702974/156852221-5a5dc7c1-1400-4e9b-99ef-a50e56b24e03.svg">
+    <img width="30" src="https://user-images.githubusercontent.com/89702974/156852237-bb82dbb1-53de-408f-b4a9-baf4475960fd.svg">
   </a>
   <a href = "https://www.linkedin.com/in/andersongsa/">
     <img width="25" src="https://user-images.githubusercontent.com/89702974/156852235-76929b36-4ff0-4fbf-969e-092c0cb07632.svg">
@@ -21,8 +21,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Abaixo tecnologias que utilizo!!! <3</h1>
+    <h1 align="center">Abaixo tecnologias que utilizo!!!</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
