@@ -11,10 +11,10 @@
 ## Redes sociais
 <div>
   <a href = "mailto: anderson.dossantosgsa@gmail.com">
-    <img width="30" src="gmail.svg">
+    <img width="30" src="https://user-images.githubusercontent.com/89702974/156852221-5a5dc7c1-1400-4e9b-99ef-a50e56b24e03.svg">
   </a>
   <a href = "https://www.linkedin.com/in/andersongsa/">
-    <img width="25" src="linkedin.svg">
+    <img width="25" src="https://user-images.githubusercontent.com/89702974/156852235-76929b36-4ff0-4fbf-969e-092c0cb07632.svg">
   </a>
    
 <br>
